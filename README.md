@@ -4,7 +4,7 @@
 I conducted an analysis of the electric vehicles (EV) market size using Python. This analysis is based on the EV population in the United States. The goal of this project is to understand EV adoption trends, geographical distribution, vehicle types, manufacturer popularity, electric range trends, and the estimated growth in market size.
 
 ## Dataset
-The dataset contains records of registered electric vehicles in the United States, including details such as model year, manufacturer, model name, electric range, and geographical registration information.
+The [dataset](https://statso.io/market-size-of-evs-case-study/) contains records of registered electric vehicles in the United States, including details such as model year, manufacturer, model name, electric range, and geographical registration information.
 
 ## Analysis Areas
 I explored the following key areas:
