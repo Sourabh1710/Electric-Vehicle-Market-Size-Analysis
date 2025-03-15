@@ -154,7 +154,7 @@ Market size analysis is essential to understanding industry growth, demand trend
 
 ---
 
-##Author
+## Author
 
 Sourabh Sonker <br>
 Data Science Enth
